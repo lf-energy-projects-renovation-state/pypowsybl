@@ -14,6 +14,6 @@ wheel==0.38.1
 coverage==7.3.2
 pytest>=6.2.5
 mypy==0.982
-pandas-stubs==1.2.0.47
+pandas-stubs==1.5.3.230321
 pylint==3.2.0
 numpy==1.26.0; python_version >= "3.9"
