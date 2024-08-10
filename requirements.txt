@@ -7,7 +7,7 @@ matplotlib
 
 # documentation dependencies
 sphinx==7.1.2
-furo==2024.1.29
+furo==2024.8.6
 
 # CI dependencies
 wheel==0.38.1
