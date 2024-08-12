@@ -1,7 +1,7 @@
 # actual dependencies
 pandas==2.2.2; python_version >= "3.9"
 pandas==2.0.3; python_version <= "3.8"
-prettytable==2.0.0
+prettytable==3.11.0
 networkx
 matplotlib
 
