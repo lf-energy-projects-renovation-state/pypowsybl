@@ -6,7 +6,7 @@ networkx
 matplotlib
 
 # documentation dependencies
-sphinx==7.1.2
+sphinx==8.1.2
 furo==2024.1.29
 
 # CI dependencies
