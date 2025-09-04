@@ -21,7 +21,7 @@ jobs:
           ref: "renovate-and-workflow-files"
       - name: Determine Upstream clone URL
         id: upstream-repo-clone-url
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             const { data } = await github.rest.repos.get({
@@ -36,7 +36,7 @@ jobs:
           result-encoding: string
       - name: Determine Upstream default branch
         id: upstream-repo-default-branch
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             const { data } = await github.rest.repos.get({
