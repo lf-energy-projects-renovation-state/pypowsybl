@@ -64,7 +64,7 @@
         <java.version>17</java.version>
         <commons-collections4.version>4.4</commons-collections4.version>
         <graalvm.version>23.0.0</graalvm.version>
-        <janino.version>3.1.0</janino.version>
+        <janino.version>3.1.12</janino.version>
         <junit-jupiter.version>5.10.0</junit-jupiter.version>
         <mapdb.version>3.0.8</mapdb.version>
         <maven-dependency-plugin.version>3.6.0</maven-dependency-plugin.version>
